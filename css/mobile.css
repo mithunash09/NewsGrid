@@ -57,11 +57,12 @@
     }
 
     .l-heading {
-        font-size: 2rem;
-        
+        font-size: 2rem; 
         padding: 1rem;
     }
-    .category-sports h1 {
+
+    .showcase-content h1 {
         line-height: 2rem;
     }
+   
 }

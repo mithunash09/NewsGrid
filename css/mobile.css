@@ -61,4 +61,7 @@
         
         padding: 1rem;
     }
+    .category-sports h1 {
+        line-height: 2rem;
+    }
 }

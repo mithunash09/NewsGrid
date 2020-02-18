@@ -55,4 +55,10 @@
     #main-footer .footer-container > *:nth-child(4) {
         border: none;
     }
+
+    .l-heading {
+        font-size: 2rem;
+        
+        padding: 1rem;
+    }
 }

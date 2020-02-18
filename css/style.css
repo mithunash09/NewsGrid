@@ -69,6 +69,8 @@ h1 , h2, h3, h4, h5, h6 {
 
 .l-heading {
     font-size: 3rem;
+    padding: 1rem;
+    line-height: 2.3rem;
 }
 
 /* Navigation */
@@ -219,6 +221,8 @@ h1 , h2, h3, h4, h5, h6 {
     background: var(--secondary-color);
     color: #fff;
 }
+
+
 
 .bg-dark h1,
 .bg-dark h2,
